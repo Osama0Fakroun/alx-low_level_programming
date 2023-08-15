@@ -24,8 +24,8 @@ return (length);
 */
 int main(void)
 {
-  int count, initial0s;
-  unsigned long fi = 1, f2 = 2, summ mx = 100000000, f1o =0, f2o = 0, sumo = 0;
+int count, initial0s;
+ unsigned long fi = 1, f2 = 2, sum, mx = 100000000, f1o = 0, f2o = 0, sumo = 0;
 for (count = 1; count <= 98; count++)
 {
 if (flo > 0)
@@ -38,7 +38,7 @@ initial0s--;
 }
 printf("%lu", f1);
 sum = (f1 + f2) % mx;
-sumo = f1o + f2o +(f1 +f2) / mx;
+sumo = f1o + f2o +(f1 + f2) / mx;
 f1=f2;
 f1o = f2o;
 f2 = sum;
