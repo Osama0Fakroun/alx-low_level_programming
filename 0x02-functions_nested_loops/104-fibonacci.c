@@ -1,3 +1,27 @@
+#include "main.h"
+/**
+*numLenght -returns
+*@num: operand num
+*Return: number of digit
+*/
+
+int numLength(int num)
+{
+int length = 0;
+if (!num)
+return (1);
+while (num)
+{
+num = num / 10;
+length += 1;
+}
+return (length);
+}
+/**
+*main - Entry oint
+*Description: prints
+* Return: always 0 (Success)
+*/
 int main(void)
 {
   int count, initial0s;
