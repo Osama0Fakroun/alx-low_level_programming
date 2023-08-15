@@ -1,9 +1,9 @@
 #include "main.h"
 /**
-* main - wook 3alia
+* main - Entry point wook 3alia
 * fibonacci - im tired
-*description: go sleep
-*
+*Description: go sleep
+*Return: always 0 (Success)
 */
 int main(void)
 {
