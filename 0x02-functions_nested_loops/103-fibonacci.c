@@ -1,5 +1,6 @@
 #include "main.h"
 /**
+* main - wook 3alia
 * fibonacci - im tired
 *description: go sleep
 *
@@ -13,7 +14,7 @@ while (1)
 sum = fib1 + fib2;
 if (sum > 4000000)
 break;
-if ((sum %2) == 0)
+if ((sum % 2) == 0)
 total_sum += sum;
 fib1 = fib2;
 fib2 = sum;
