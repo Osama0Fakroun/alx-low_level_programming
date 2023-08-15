@@ -1,9 +1,6 @@
 #include "main.h"
-
 /**
-* main - check the code.
-* _islower - function to check if
-*_islower character is lower
+*_islower - character is lower
 *
 *@c: check input of functtiom
 *
