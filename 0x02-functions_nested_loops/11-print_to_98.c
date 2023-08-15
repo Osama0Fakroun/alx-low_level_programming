@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-*print_to_98 print n to 98 count
+* print_to_98 - print n to 98 counts
 * print n to 98 counts
 *Numbers must be separated by a comma, followed by a space
 *Numbers should be printed in order
