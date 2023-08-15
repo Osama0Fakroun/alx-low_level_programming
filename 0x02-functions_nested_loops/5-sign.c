@@ -1,9 +1,9 @@
 #include "main.h"
 /**
-* main - check the code.
+* print_sign - check the code.
 * print_sign - print + if n >0
 * 0 if n = 0
-*- if < 0
+*@n: input if < 0
 * @c: takes integer type input for function
 * Return: 1 if + , 0 if 0 and -1 if -.
 */
