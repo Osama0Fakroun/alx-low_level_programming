@@ -4,7 +4,7 @@
 *
 * Return: Always 0.
 */
-viod jack_bauer(void)
+void jack_bauer(void)
 {
 int min, hr;
 for (hr = 0; hr <= 23; hr++)
