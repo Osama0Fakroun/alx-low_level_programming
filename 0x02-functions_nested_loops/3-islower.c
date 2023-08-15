@@ -3,7 +3,7 @@
 /**
 * main - check the code.
 * _islower - function to check if
-* character is lower
+*_islower character is lower
 *
 *@c: check input of functtiom
 *
