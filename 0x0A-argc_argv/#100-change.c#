@@ -1,0 +1,1 @@
+#includ    return (0);        }        for (j = 0; j < 5 && num >= 0; j++)        {                while (num >= coins[j])                {                        result++;                        num -= coins[j];                }        }        printf(%dn, result);        return (0);}
